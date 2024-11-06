@@ -1,5 +1,5 @@
 .bg-image {
-  background-image: url('img/boyz.png');
+  background-image: url('https://storage.googleapis.com/jamesprofile/img/boyz.png');
   background-size: cover;
   background-position: center;
   position: relative;
@@ -83,7 +83,7 @@
   margin: 0; /* Menghilangkan margin ekstra yang mungkin ditambahkan oleh browser */
   display: flex;
   justify-content: center;
-  background-image: url('img/boyss.jpg'); /* Menggunakan gambar sebagai latar belakang */
+  background-image: url('https://storage.googleapis.com/jamesprofile/img/boyss.jpg'); /* Menggunakan gambar sebagai latar belakang */
   background-size: cover;
   background-position: center;
   background-attachment: fixed; /* Membuat gambar tetap di lokasi saat di-scroll */
